@@ -6,7 +6,7 @@ until game:IsLoaded()
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/1201for/V.G_Hub_Extras/main/Universal_Client_Bypass"))()
 
-local A = loadstring(game:HttpGet("https://raw.githubusercontent.com/1201for/V.G-Hub/main/V.G-Hub-Games-List"))()
+local A = loadstring(game:HttpGet("https://raw.githubusercontent.com/DatEmage/scripts/main/hub-bundle-kat.lua"))()
 
 getgenv().Get =
 
